@@ -17,3 +17,13 @@ code {
 	margin: 0 auto;
 	width: 600px;
 }
+
+.rm {
+	background: red;
+	border-radius: 45%;
+	color: #fff;
+	border: 5px solid blueviolet;
+}
+.rm:hover {
+	cursor: pointer;
+}
